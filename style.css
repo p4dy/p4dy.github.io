@@ -1,0 +1,95 @@
+body {
+  background-color: black;
+}
+
+.search {
+  position: fixed;
+  height: 22px;
+  width: 60px;
+  top: 49px;
+  background-color: orange;
+  border-width: 0px;
+  image: url(https://cdn.glitch.com/ed4cb506-7260-4026-af61-3e544ada1a87%2Ficon.png?v=1610136453600);
+}
+
+.intro {
+  position: relative;
+  width: 150px;
+  height: auto;
+  margin: 0px;
+  margin-top: 10px;
+}
+
+.search-box[type="text"] {
+  font-family: "Arial";
+  color: #a9a9a9;
+  background-color: #3f3e3f;
+  border: 0px;
+  position: relative;
+  margin-left: 200px;
+  height: 20px;
+}
+
+.home1 {
+  position: fixed;
+  color: white;
+  font-weight: bold;
+  font-family: "Arial";
+  left: 200px;
+}
+
+.videos1 {
+  position: fixed;
+  color: white;
+  font-weight: bold;
+  font-family: "Arial";
+  left: 300px;
+}
+
+.premium1 {
+  position: fixed;
+  color: white;
+  font-weight: bold;
+  font-family: "Arial";
+  left: 450px;
+}
+
+.categories1 {
+  position: fixed;
+  color: white;
+  font-weight: bold;
+  font-family: "Arial";
+  left: 590px;
+}
+
+.live1 {
+  position: fixed;
+  color: white;
+  font-weight: bold;
+  font-family: "Arial";
+  left: 760px;
+}
+
+.stars1 {
+  position: fixed;
+  color: white;
+  font-weight: bold;
+  font-family: "Arial";
+  left: 900px;
+}
+
+.uncut1 {
+  position: fixed;
+  color: white;
+  font-weight: bold;
+  font-family: "Arial";
+  left: 1050px;
+}
+
+.community1 {
+  position: fixed;
+  color: white;
+  font-weight: bold;
+  font-family: "Arial";
+  left: 1220px;
+}
